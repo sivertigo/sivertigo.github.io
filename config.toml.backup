@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "UTF-8"
+title = "sivertigo.com"
+theme = "hugo-tranquilpeak-theme"
