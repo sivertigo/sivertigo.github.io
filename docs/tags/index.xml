@@ -2,21 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sivelog</title>
-    <link>https://sivertigo.github.io/public/tags/</link>
+    <link>https://sivertigo.github.io/docs/tags/</link>
     <description>Recent content in Tags on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Apr 2017 22:16:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 22:43:12 +0900</lastBuildDate>
     
-	<atom:link href="https://sivertigo.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sivertigo.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://sivertigo.github.io/public/tags/</link>
+      <link>https://sivertigo.github.io/docs/tags/</link>
+      <pubDate>Mon, 24 Apr 2017 22:43:12 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://sivertigo.github.io/docs/tags/test1/</link>
       <pubDate>Mon, 24 Apr 2017 22:16:37 +0900</pubDate>
       
-      <guid>https://sivertigo.github.io/public/tags/</guid>
+      <guid>https://sivertigo.github.io/docs/tags/test1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>https://sivertigo.github.io/docs/tags/test2/</link>
+      <pubDate>Mon, 24 Apr 2017 22:16:37 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/tags/test2/</guid>
       <description></description>
     </item>
     

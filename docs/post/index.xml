@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sivelog</title>
-    <link>https://sivertigo.github.io/public/post/</link>
+    <link>https://sivertigo.github.io/docs/post/</link>
     <description>Recent content in Posts on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Apr 2017 22:16:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 22:43:12 +0900</lastBuildDate>
     
-	<atom:link href="https://sivertigo.github.io/public/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sivertigo.github.io/docs/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://sivertigo.github.io/public/2017/04/</link>
+      <link>https://sivertigo.github.io/docs/2017/04/</link>
+      <pubDate>Mon, 24 Apr 2017 22:43:12 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/2017/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test article</title>
+      <link>https://sivertigo.github.io/docs/2017/04/test-article/</link>
       <pubDate>Mon, 24 Apr 2017 22:16:37 +0900</pubDate>
       
-      <guid>https://sivertigo.github.io/public/2017/04/</guid>
-      <description></description>
+      <guid>https://sivertigo.github.io/docs/2017/04/test-article/</guid>
+      <description>this is a test for posting</description>
     </item>
     
   </channel>
