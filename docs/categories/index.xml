@@ -21,11 +21,29 @@
     </item>
     
     <item>
+      <title>Category</title>
+      <link>https://sivertigo.github.io/docs/categories/category/</link>
+      <pubDate>Mon, 24 Apr 2017 23:16:27 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sample</title>
       <link>https://sivertigo.github.io/docs/categories/sample/</link>
       <pubDate>Mon, 24 Apr 2017 22:16:37 +0900</pubDate>
       
       <guid>https://sivertigo.github.io/docs/categories/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subcategory</title>
+      <link>https://sivertigo.github.io/docs/categories/subcategory/</link>
+      <pubDate>Mon, 24 Apr 2017 23:16:27 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/categories/subcategory/</guid>
       <description></description>
     </item>
     
