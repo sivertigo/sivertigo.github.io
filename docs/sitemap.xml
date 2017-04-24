@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sivertigo.github.io/2015/05/new-post/</loc>
+    <loc>https://sivertigo.github.io/public/2015/05/new-post/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/2015/05/new-post/</loc>
+    <loc>https://sivertigo.github.io/public/2015/05/new-post/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/archives/</loc>
+    <loc>https://sivertigo.github.io/public/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/categories/</loc>
+    <loc>https://sivertigo.github.io/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/categories/category/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivertigo.github.io/post/</loc>
+    <loc>https://sivertigo.github.io/public/categories/category/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/</loc>
+    <loc>https://sivertigo.github.io/public/post/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/categories/subcategory/</loc>
+    <loc>https://sivertigo.github.io/public/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/tags/tag1/</loc>
+    <loc>https://sivertigo.github.io/public/categories/subcategory/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/tags/tag2/</loc>
+    <loc>https://sivertigo.github.io/public/tags/tag1/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/tags/</loc>
+    <loc>https://sivertigo.github.io/public/tags/tag2/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sivertigo.github.io/public/tags/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
