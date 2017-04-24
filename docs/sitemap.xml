@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sivertigo.github.io/public/archives/</loc>
+    <loc>https://sivertigo.github.io/docs/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/public/categories/</loc>
+    <loc>https://sivertigo.github.io/docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/public/</loc>
+    <loc>https://sivertigo.github.io/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/public/tags/</loc>
+    <loc>https://sivertigo.github.io/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
