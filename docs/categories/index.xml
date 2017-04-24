@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Mon, 24 Apr 2017 23:02:40 +0900</lastBuildDate>
     
 	<atom:link href="https://sivertigo.github.io/docs/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://sivertigo.github.io/docs/categories/</link>
+      <pubDate>Mon, 24 Apr 2017 23:02:40 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/categories/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sample</title>

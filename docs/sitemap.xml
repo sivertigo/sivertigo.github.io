@@ -2,8 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sivertigo.github.io/docs/2017/04/new-post/</loc>
+    <lastmod>2017-04-24T23:02:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sivertigo.github.io/docs/2017/04/test-article/</loc>
     <lastmod>2017-04-24T22:16:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivertigo.github.io/docs/tags/</loc>
+    <lastmod>2017-04-24T23:02:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sivertigo.github.io/docs/categories/</loc>
+    <lastmod>2017-04-24T23:02:40+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,12 +30,13 @@
   
   <url>
     <loc>https://sivertigo.github.io/docs/categories/</loc>
+    <lastmod>2017-04-24T23:02:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sivertigo.github.io/docs/post/</loc>
-    <lastmod>2017-04-24T22:16:37+09:00</lastmod>
+    <lastmod>2017-04-24T23:02:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,12 +48,13 @@
   
   <url>
     <loc>https://sivertigo.github.io/docs/</loc>
-    <lastmod>2017-04-24T22:16:37+09:00</lastmod>
+    <lastmod>2017-04-24T23:02:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sivertigo.github.io/docs/tags/</loc>
+    <lastmod>2017-04-24T23:02:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
