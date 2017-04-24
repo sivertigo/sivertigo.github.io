@@ -36,39 +36,6 @@
   
     
     
-      
-      
-        
-        
-        
-        
-        
-          
-          
-        
-        
-        
-      
-        
-        
-        
-        
-        
-          
-          
-            
-            
-            
-          
-        
-        
-        
-      
-      
-    
-  
-    
-    
   
 
 
@@ -271,7 +238,7 @@
               
                 
                 <div>
-                  <a href="#posts-list-category" class="category-anchor" data-category="category" data-parent-categories="">category</a>
+                  <a href="#posts-list-" class="category-anchor" data-category="" data-parent-categories=""></a>
                   
                     
                     
@@ -279,7 +246,7 @@
 
   <ul style="margin-bottom:0;">
     <div>
-      <a href="#posts-list-subcategory" class="category-anchor" data-category="subcategory" data-parent-categories="category"> / subcategory</a>
+      <a href="#posts-list-" class="category-anchor" data-category="" data-parent-categories=""> / </a>
     </div>
   
   
@@ -297,21 +264,15 @@
             
               
                 
-                <div id="posts-list-category" class="archive box" data-category="category" data-parent-categories="" style="display: block;">
+                <div id="posts-list-" class="archive box" data-category="" data-parent-categories="" style="display: block;">
                   <h4 class="archive-title text-xlarge">
-                    <a class="link-unstyled" href="category">category (2)</a>
+                    <a class="link-unstyled" href=""> (1)</a>
                   </h4>
                   <ul class="archive-posts">
                     
                       <li class="archive-post">
-                        <a class="archive-post-title" href="https://sivertigo.github.io/public/2015/05/new-post/">New Post</a><span class="archive-post-date"> - 
-  May 28, 2015
-</span>
-                      </li>
-                    
-                      <li class="archive-post">
-                        <a class="archive-post-title" href="https://sivertigo.github.io/public/2015/05/new-post/">New Post</a><span class="archive-post-date"> - 
-  May 28, 2015
+                        <a class="archive-post-title" href="https://sivertigo.github.io/public/2017/04/"></a><span class="archive-post-date"> - 
+  April 24, 2017
 </span>
                       </li>
                     
@@ -320,21 +281,15 @@
                       
                         
 
-  <div id="posts-list-subcategory" class="archive" data-category="subcategory" data-parent-categories="category" style="display: block;">
+  <div id="posts-list-" class="archive" data-category="" data-parent-categories="" style="display: block;">
   <h4 class="archive-title text-xlarge">
-    <a class="link-unstyled" href="subcategory">subcategory (2)</a>
+    <a class="link-unstyled" href=""> (1)</a>
   </h4>
   <ul class="archive-posts">
     
       <li class="archive-post" style="display: list-item;">
-        <a class="archive-post-title" href="https://sivertigo.github.io/public/2015/05/new-post/">New Post</a><span class="archive-post-date"> - 
-  May 28, 2015
-</span>
-      </li>
-    
-      <li class="archive-post" style="display: list-item;">
-        <a class="archive-post-title" href="https://sivertigo.github.io/public/2015/05/new-post/">New Post</a><span class="archive-post-date"> - 
-  May 28, 2015
+        <a class="archive-post-title" href="https://sivertigo.github.io/public/2017/04/"></a><span class="archive-post-date"> - 
+  April 24, 2017
 </span>
       </li>
     
@@ -431,3 +386,72 @@ $(document).ready(function() {
 
 
 </html>
+ed" href="https://sivertigo.github.io/public/post/">
+                <h3 class="media-heading">Posts</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Apr 4, 2017
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
+         2 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('https://sivertigo.github.io/public/images/cover.jpg');"></div>
+  
+
+
+    
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.js"></script>
+
+
+<script src="https://sivertigo.github.io/public/js/script-wl33z0n6ocaypepiqrazthtivfrliqijej4rq8ek8gvrv1awftmgjuv8k4zc.min.js"></script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight').each(function(i, block) {
+    var code = "";
+    hljs.highlightAuto(block.innerText).value.split(/\r\n|\r|\n/).forEach(function(line) {
+      code += "<span class=\"line\">" + line + "</span><br>";
+    });
+    if (code.length > 0) {
+      block.innerHTML = code;  
+    }
+  });
+  $('pre > code').each(function(i, block) {
+    $(this).addClass('codeblock');
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+
+    
+  </body>
+</html>
+
