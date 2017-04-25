@@ -9,3 +9,4 @@ thumbnailImage = "http://res.cloudinary.com/dvudu2gsj/image/upload/v1492845285/V
 +++
 
 vladimir Volegov's art
+こんにちは
