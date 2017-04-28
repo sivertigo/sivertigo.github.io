@@ -6,10 +6,20 @@
     <description>Recent content on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>UTF-8</language>
-    <lastBuildDate>Fri, 28 Apr 2017 16:28:19 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 18:14:43 +0900</lastBuildDate>
     
 	<atom:link href="https://sivertigo.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Post</title>
+      <link>https://sivertigo.github.io/docs/2017/04/new-post/</link>
+      <pubDate>Fri, 28 Apr 2017 18:14:43 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/2017/04/new-post/</guid>
+      <description>&lt;p&gt;サンプルです。
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>狛江の堀口コーヒーに行ってきました。</title>
