@@ -5,8 +5,8 @@
     <link>https://sivertigo.github.io/docs/categories/category/</link>
     <description>Recent content in Category on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Thu, 27 Apr 2017 14:34:53 +0900</lastBuildDate>
+    <language>UTF-8</language>
+    <lastBuildDate>Fri, 28 Apr 2017 18:14:43 +0900</lastBuildDate>
     
 	<atom:link href="https://sivertigo.github.io/docs/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>New Post</title>
       <link>https://sivertigo.github.io/docs/2017/04/new-post/</link>
-      <pubDate>Thu, 27 Apr 2017 14:34:53 +0900</pubDate>
+      <pubDate>Fri, 28 Apr 2017 18:14:43 +0900</pubDate>
       
       <guid>https://sivertigo.github.io/docs/2017/04/new-post/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;サンプルです。
+&lt;/p&gt;</description>
     </item>
     
   </channel>
