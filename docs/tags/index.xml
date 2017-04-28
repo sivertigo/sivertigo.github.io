@@ -6,28 +6,9 @@
     <description>Recent content in Tags on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>UTF-8</language>
-    <lastBuildDate>Fri, 28 Apr 2017 18:14:43 +0900</lastBuildDate>
     
 	<atom:link href="https://sivertigo.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tag1</title>
-      <link>https://sivertigo.github.io/docs/tags/tag1/</link>
-      <pubDate>Fri, 28 Apr 2017 18:14:43 +0900</pubDate>
-      
-      <guid>https://sivertigo.github.io/docs/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag2</title>
-      <link>https://sivertigo.github.io/docs/tags/tag2/</link>
-      <pubDate>Fri, 28 Apr 2017 18:14:43 +0900</pubDate>
-      
-      <guid>https://sivertigo.github.io/docs/tags/tag2/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>ブレンド</title>
