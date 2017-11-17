@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>UTF-8</language>
-    <lastBuildDate>Fri, 28 Apr 2017 16:28:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 21:38:58 +0900</lastBuildDate>
     
 	<atom:link href="https://sivertigo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Post</title>
+      <link>https://sivertigo.github.io/2017/06/new-post/</link>
+      <pubDate>Sun, 18 Jun 2017 21:38:58 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/2017/06/new-post/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>コーヒーハンターの店, Mi cafeto</title>
+      <link>https://sivertigo.github.io/2017/04/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E5%BA%97-mi-cafeto/</link>
+      <pubDate>Fri, 28 Apr 2017 16:28:19 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/2017/04/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E5%BA%97-mi-cafeto/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>狛江の堀口コーヒーに行ってきました。</title>
